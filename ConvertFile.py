@@ -1,5 +1,4 @@
 import pandas as pd
 
-df = pd.read_csv("hello.csv")
-df.to_excel("practice_extended.xlsx", index=False)
-
+DataFrame = pd.read_csv('hello.csv')
+DataFrame.to_excel('ExcelFile.xlsx', index=False)
