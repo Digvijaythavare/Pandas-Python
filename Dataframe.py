@@ -1,3 +1,4 @@
+
 import pandas as pd
 
 Student_name = ["John","Bob","Eve","Alice","Charlie"]
@@ -12,4 +13,4 @@ Student_info = pd.DataFrame({
     "City" : Student_city
 })
 
-print(Student_info)
+print(Student_info,)
