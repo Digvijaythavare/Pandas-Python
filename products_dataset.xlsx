@@ -1,0 +1,101 @@
+Product_Id,Product_Name,Category,Quantity,Price
+p001,Smartwatch,Peripherals,19,670
+p002,Headphones,Networking,19,1496
+p003,Printer,Electronics,8,1327
+p004,Tablet,Audio,7,553
+p005,Monitor,Computing,5,555
+p006,Speaker,Networking,19,1387
+p007,External Hard Drive,Electronics,7,786
+p008,Mouse,Audio,10,418
+p009,Keyboard,Networking,3,793
+p010,Speaker,Networking,3,680
+p011,Headphones,Accessories,15,773
+p012,Mouse,Networking,5,642
+p013,Camera,Accessories,13,719
+p014,Laptop,Accessories,1,1131
+p015,Laptop,Electronics,4,1109
+p016,Router,Audio,10,1003
+p017,External Hard Drive,Audio,13,162
+p018,Laptop,Mobile Devices,4,1074
+p019,Printer,Video,15,575
+p020,USB Flash Drive,Networking,17,262
+p021,External Hard Drive,Storage,7,1007
+p022,Webcam,Peripherals,8,728
+p023,Webcam,Peripherals,12,495
+p024,Keyboard,Video,17,1135
+p025,Monitor,Mobile Devices,6,349
+p026,Mouse,Storage,9,1001
+p027,Mouse,Peripherals,3,221
+p028,Laptop,Video,1,539
+p029,Smartwatch,Storage,6,623
+p030,Smartphone,Networking,10,729
+p031,Smartwatch,Wearables,10,837
+p032,Speaker,Networking,12,565
+p033,External Hard Drive,Computing,1,248
+p034,Laptop,Wearables,10,1349
+p035,Monitor,Electronics,17,1102
+p036,Monitor,Computing,8,282
+p037,Router,Video,20,103
+p038,Tablet,Wearables,17,1295
+p039,Smartwatch,Networking,16,770
+p040,Smartwatch,Networking,16,1157
+p041,Headphones,Audio,4,1441
+p042,Router,Wearables,15,973
+p043,Tablet,Computing,14,1471
+p044,Tablet,Wearables,6,571
+p045,Webcam,Audio,9,1293
+p046,Mouse,Networking,14,1384
+p047,Monitor,Mobile Devices,10,949
+p048,Monitor,Storage,17,394
+p049,Laptop,Computing,13,230
+p050,Router,Video,12,795
+p051,Tablet,Storage,4,783
+p052,Keyboard,Audio,16,371
+p053,Tablet,Electronics,15,1381
+p054,Keyboard,Peripherals,10,1206
+p055,Headphones,Accessories,15,719
+p056,External Hard Drive,Mobile Devices,3,678
+p057,Monitor,Networking,19,836
+p058,USB Flash Drive,Networking,12,919
+p059,Router,Computing,7,1144
+p060,Smartphone,Computing,15,1163
+p061,Monitor,Networking,14,1483
+p062,Smartwatch,Accessories,2,362
+p063,Webcam,Peripherals,19,407
+p064,Smartphone,Peripherals,20,1170
+p065,Smartwatch,Mobile Devices,3,1383
+p066,External Hard Drive,Wearables,11,732
+p067,External Hard Drive,Computing,9,863
+p068,Smartwatch,Networking,4,654
+p069,Smartphone,Electronics,2,476
+p070,Router,Networking,15,939
+p071,Webcam,Computing,7,785
+p072,Mouse,Mobile Devices,16,616
+p073,Headphones,Storage,2,1219
+p074,Mouse,Networking,17,732
+p075,Laptop,Wearables,4,466
+p076,Speaker,Video,18,867
+p077,Speaker,Wearables,20,409
+p078,USB Flash Drive,Electronics,9,307
+p079,External Hard Drive,Video,11,127
+p080,USB Flash Drive,Storage,8,216
+p081,Smartphone,Mobile Devices,15,715
+p082,Monitor,Video,13,701
+p083,Smartphone,Accessories,9,722
+p084,Router,Mobile Devices,9,774
+p085,Printer,Mobile Devices,15,676
+p086,Speaker,Electronics,7,459
+p087,Headphones,Mobile Devices,9,1321
+p088,Laptop,Audio,17,64
+p089,Camera,Mobile Devices,20,847
+p090,Camera,Mobile Devices,20,627
+p091,Smartwatch,Computing,18,798
+p092,Monitor,Storage,1,145
+p093,External Hard Drive,Networking,4,210
+p094,Laptop,Wearables,16,1206
+p095,External Hard Drive,Accessories,14,593
+p096,Webcam,Electronics,3,392
+p097,USB Flash Drive,Computing,20,1060
+p098,Laptop,Peripherals,9,1170
+p099,Headphones,Mobile Devices,10,152
+p100,Mouse,Computing,12,933
